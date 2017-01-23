@@ -1,0 +1,15 @@
+Jones
+1000000
+Smith
+2500000
+Howard
+500000
+Davis
+75000
+Willis
+3750750
+Sanchez
+775700
+Baker
+125000
+

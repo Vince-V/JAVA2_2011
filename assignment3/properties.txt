@@ -1,0 +1,10 @@
+Dallas
+56000
+Arlington
+1250000
+Fort Worth
+378550
+Euless
+125999
+Grand Prairie
+2125000
